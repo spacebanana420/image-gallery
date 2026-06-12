@@ -6,6 +6,8 @@ This repository contains some of my various image artworks, it serves as a portf
 * **[3D Gallery (Garry's Mod)](md/gmod.md)**
 * **[Photography Gallery](md/photo.md)**
 
+* **[Image Archive](gallery/hq)**
+
 The quality and resolution was decreased to spare on file size. Images in `thumbnail` and `web` have lower quality for faster/lighter internet downloads, while all images in `hq` are higher quality, though JPG to spare on gallery size.
 
 ## Image Manipulation
