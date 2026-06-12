@@ -30,3 +30,7 @@ The quality and resolution was decreased to spare on file size. Images in `thumb
   <img src="gallery/thumbnail/Spiritomb_4-3.webp" width="32%" alt="Spiritomb">
   <img src="gallery/thumbnail/Spirit.webp" width="32%" alt="Metaknight's Stand?">
 </div>
+
+## License
+
+This repository and all of its images are licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
