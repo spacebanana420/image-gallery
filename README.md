@@ -10,6 +10,7 @@ This repository contains some of my various image artworks, it serves as a portf
 * **[Steam Gallery](https://steamcommunity.com/id/spacebanana420/images/)**
 * **[Image Artwork Overview](https://github.com/spacebanana420/spacebanana420/blob/main/md/image.md)**
 * **[High Quality Image Archive](gallery/hq)**
+
 The quality and resolution of the images here was decreased to spare on file size. Images in `thumbnail` and `web` have lower quality for viewing, while all images in `hq` are higher quality, though JPG to spare on gallery size. The original images are all in PNG, but that would be too heavy for the repo.
 
 ## Gallery Preview
