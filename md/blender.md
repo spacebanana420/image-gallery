@@ -1,6 +1,6 @@
-## Image Manipulation Gallery
+## 3D Image Gallery (Blender)
 
-Below are some of my images I created through image manipulation (GIMP, Krita, etc).
+Below are some of my images I created using Blender.
 
 <div align="center">
   <img src="../gallery/web/Mushroom Islands - Yuuka.webp" width="45%" alt="Yuuka on The Mushroom Islands">
