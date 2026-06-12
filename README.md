@@ -8,7 +8,7 @@ The quality and resolution was decreased to spare on file size.
 <div align="center">
   <img src="gallery/thumbnail/Kogasa Watcher.webp" width="32%" alt="Kogasa and The Watcher">
   <img src="gallery/thumbnail/Koishi Space 2.webp" width="32%" alt="Koishi in Space">
-  <img src="gallery/preview/Satori Frog.webp" width="32%" alt="Satori Frog">
+  <img src="gallery/thumbnail/Satori Frog.webp" width="32%" alt="Satori Frog">
 </div>
 
 ## Photography
