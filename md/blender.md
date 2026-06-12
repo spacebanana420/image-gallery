@@ -10,6 +10,6 @@ Below are some of my images I created through image manipulation (GIMP, Krita, e
   <img src="../gallery/preview/Spirit.webp" width="45%" alt="Spirit">
   <img src="../gallery/preview/Yuyugopher.webp" width="45%" alt="Yuyugopher">
   <img src="../gallery/preview/Wakasagihime River.webp" width="45%" alt="Wakasagihime River">
-  <img src="../gallery/preview/Ship 2.webp" width="45%" alt="River">
+  <img src="../gallery/preview/Ship 2.webp" width="45%" alt="Ship">
   <img src="../gallery/preview/The Outskirts - Iku.webp" width="45%" alt="The Outskirts - Iku">
 </div>
