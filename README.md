@@ -11,7 +11,7 @@ This repository contains some of my various image artworks, it serves as a portf
 
 The quality and resolution was decreased to spare on file size. Images in `thumbnail` and `web` have lower quality for viewing, while all images in `hq` are higher quality, though JPG to spare on gallery size. The original images are all in PNG, but that would be too heavy for the repo
 
-## Image Manipulation
+## Gallery Preview
 
 <div align="center">
   <img src="gallery/thumbnail/Kogasa Watcher.webp" width="32%" alt="Kogasa and The Watcher">
@@ -19,15 +19,11 @@ The quality and resolution was decreased to spare on file size. Images in `thumb
   <img src="gallery/thumbnail/Satori Frog.webp" width="32%" alt="Satori Frog">
 </div>
 
-## Photography
-
 <div align="center">
   <img src="gallery/thumbnail/photo_yuuka.webp" width="32%" alt="Yuuka">
   <img src="gallery/thumbnail/photo_lemon.webp" width="32%" alt="Lemon">
   <img src="gallery/thumbnail/photo_encounter.webp" width="32%" alt="Yuuka's Encounter">
 </div>
-
-## 3D image
 
 <div align="center">
   <img src="gallery/thumbnail/Mushroom Islands - Yuuka.webp" width="32%" alt="Yuuka in The Floating Islands">
