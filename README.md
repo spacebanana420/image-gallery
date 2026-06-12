@@ -1,11 +1,6 @@
 # Image Artwork Gallery
 This repository contains some of my various image creations. It serves as a portfolio-like gallery to show my works.
 
-* **[2D Image Gallery](md/2d.md)**
-* **[3D Gallery (Blender)](md/blender.md)**
-* **[3D Gallery (Garry's Mod)](md/gmod.md)**
-* **[Photography Gallery](md/photo.md)**
-
 <div align="center">
   <img src="gallery/thumbnail/Yoshika Harvest.webp" width="32%" alt="Yoshika">
   <img src="gallery/thumbnail/Koishi Space 2.webp" width="32%" alt="Koishi in Space">
@@ -23,6 +18,11 @@ This repository contains some of my various image creations. It serves as a port
   <img src="gallery/thumbnail/Spiritomb_4-3.webp" width="32%" alt="Spiritomb">
   <img src="gallery/thumbnail/Spirit.webp" width="32%" alt="Metaknight's Stand?">
 </div>
+
+* **[2D Image Gallery](md/2d.md)**
+* **[3D Gallery (Blender)](md/blender.md)**
+* **[3D Gallery (Garry's Mod)](md/gmod.md)**
+* **[Photography Gallery](md/photo.md)**
 
 ### Other Links
 * **[Steam Gallery](https://steamcommunity.com/id/spacebanana420/images/)**
