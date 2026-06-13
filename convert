@@ -12,7 +12,7 @@ fi
 # Delete PNG originals
 if [[ $1 == "cleanup" ]]
 then
-   rm -r import
+   rm -rf import
    mkdir import import/original import/original_small
    exit
 fi
