@@ -9,11 +9,13 @@ then
    exit
 fi
 
-# Delete PNG originals
+# Delete PNG originals and cleans up .git directory
 if [[ $1 == "cleanup" ]]
 then
    rm -rf import/original import/original_small
    mkdir import/original import/original_small
+   git reflog expire --expire=now --all
+   git gc --auto
    exit
 fi
 
