@@ -2,13 +2,40 @@
 
 #Convert images from original quality to various qualities to be used in this repo
 
-if [[ $1 == "reset" ]]
+# Create directories
+if [[ $1 == "setup" ]]
 then
-    overwrite="-y" # FFmpeg will always overwrite files
+   mkdir gallery gallery/thumbnail gallery/web gallery/hq import import/original import/original_small
+   exit
+fi
+
+# Delete PNG originals
+if [[ $1 == "cleanup" ]]
+then
+   rm -r import
+   mkdir import import/original import/original_small
+   exit
+fi
+
+# Fetch PNG originals from repo
+if [[ $1 == "download" ]]
+then
+    rm -r import
+    git clone git@github.com:spacebanana420/image-gallery-originals.git
+    mv image-gallery-originals import
+    exit
+fi
+
+if [[ $1 == "rewrite" ]] # Rewrite all images
+then
+    overwrite="-y"
+elif [[ $1 == "reset" ]] # Erase all images and rewrite
+then
+    overwrite="-y"
     rm -r gallery
     mkdir gallery gallery/thumbnail gallery/web gallery/hq
-else
-    overwrite="-n" # FFmpeg will ignore images that are already converted, good for small additions to the gallery
+else # Only write new images
+    overwrite="-n"
 fi
 
 #Create thumbnail and high quality variants for all images
