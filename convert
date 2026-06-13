@@ -2,8 +2,11 @@
 
 #Convert images from original quality to various qualities to be used in this repo
 
-rm -r gallery
-mkdir gallery gallery/thumbnail gallery/web gallery/hq
+if [[ $1 == "reset" ]]
+then
+    rm -r gallery
+    mkdir gallery gallery/thumbnail gallery/web gallery/hq
+fi
 
 #Create thumbnail and high quality variants for all images
 for i in import/original/*.png import/original_small/*.png
