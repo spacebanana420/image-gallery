@@ -11,5 +11,6 @@ Below are some of my images I created using Blender.
   <img src="../gallery/web/Yuyugopher.webp" width="45%" alt="Yuyugopher">
   <img src="../gallery/web/Wakasagihime River.webp" width="45%" alt="Wakasagihime River">
   <img src="../gallery/web/The Outskirts - Iku.webp" width="45%" alt="The Outskirts - Iku">
+  <img src="../gallery/web/Shrine Lake.webp" width="45%" alt="Shrine Lake">
   <img src="../gallery/web/The Outskirts - Satori.webp" width="45%" alt="The Outskirts - Satori">
 </div>
