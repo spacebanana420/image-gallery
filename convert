@@ -13,7 +13,7 @@ fi
 if [[ $1 == "cleanup" ]]
 then
    rm -rf import/original import/original_small
-   mkdir import import/original import/original_small
+   mkdir import/original import/original_small
    exit
 fi
 
