@@ -4,28 +4,31 @@
 
 if [[ $1 == "reset" ]]
 then
+    override_file="-y" # FFmpeg will always overwrite files
     rm -r gallery
     mkdir gallery gallery/thumbnail gallery/web gallery/hq
+else
+    override_file="-n" # FFmpeg will ignore images that are already converted, good for small additions to the gallery
 fi
 
 #Create thumbnail and high quality variants for all images
 for i in import/original/*.png import/original_small/*.png
 do
   newname=$(basename "$i" ".png")
-  ffmpeg -y -i "$i" -quality 90 -filter:v "scale=650:-1" gallery/thumbnail/"$newname".webp
-  ffmpeg -y -i "$i" -qmin 1 -q 1 gallery/hq/"$newname".jpg
+  ffmpeg $override_file -i "$i" -quality 90 -filter:v "scale=650:-1" gallery/thumbnail/"$newname".webp
+  ffmpeg $override_file -i "$i" -qmin 1 -q 1 gallery/hq/"$newname".jpg
 done
 
 #For images above 1920x1080, make a preview that is 1920 wide
 for i in import/original/*.png
 do
   newname=$(basename "$i" ".png")
-  ffmpeg -y -i "$i" -quality 88 -filter:v "scale=1920:-1" gallery/web/"$newname".webp
+  ffmpeg $override_file -i "$i" -quality 88 -filter:v "scale=1920:-1" gallery/web/"$newname".webp
 done
 
 #For images equal or below 1920x1080, make a preview without resizing instead
 for i in import/original_small/*.png
 do
   newname=$(basename "$i" ".png")
-  ffmpeg -y -i "$i" -quality 88 gallery/web/"$newname".webp
+  ffmpeg $override_file -i "$i" -quality 88 gallery/web/"$newname".webp
 done
