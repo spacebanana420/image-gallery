@@ -49,14 +49,14 @@ do
   
 done
 
-#For images above 1920x1080, make a HQ version that is 1920 wide
+#For images above 1920 width, make a HQ version that is 1920 wide
 for i in import/original/*.png
 do
   newname=$(basename "$i" ".png")
   ffmpeg $overwrite -i "$i" -qmin 1 -q 1 -filter:v "scale=1920:-1" gallery/hq/"$newname".jpg
 done
 
-#For images equal or below 1920x1080, make a HQ version without resizing instead
+#For images equal or below 1920 width, make a HQ version without resizing instead
 for i in import/original_small/*.png
 do
   newname=$(basename "$i" ".png")
