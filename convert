@@ -40,24 +40,25 @@ else # Only write new images
     overwrite="-n"
 fi
 
-#Create thumbnail and high quality variants for all images
+#Create lower-quality previews for all images
 for i in import/original/*.png import/original_small/*.png
 do
   newname=$(basename "$i" ".png")
-  ffmpeg $overwrite -i "$i" -quality 90 -filter:v "scale=650:-1" gallery/thumbnail/"$newname".webp
-  ffmpeg $overwrite -i "$i" -qmin 1 -q 1 gallery/hq/"$newname".jpg
+  ffmpeg $overwrite -i "$i" -quality 78 -filter:v "scale=500:-1" gallery/thumbnail/"$newname".webp
+  ffmpeg $overwrite -i "$i" -quality 85 -filter:v "scale=700:-1" gallery/web/"$newname".webp
+  
 done
 
-#For images above 1920x1080, make a preview that is 1920 wide
+#For images above 1920x1080, make a HQ version that is 1920 wide
 for i in import/original/*.png
 do
   newname=$(basename "$i" ".png")
-  ffmpeg $overwrite -i "$i" -quality 88 -filter:v "scale=1920:-1" gallery/web/"$newname".webp
+  ffmpeg $overwrite -i "$i" -qmin 1 -q 1 -filter:v "scale=1920:-1" gallery/hq/"$newname".jpg
 done
 
-#For images equal or below 1920x1080, make a preview without resizing instead
+#For images equal or below 1920x1080, make a HQ version without resizing instead
 for i in import/original_small/*.png
 do
   newname=$(basename "$i" ".png")
-  ffmpeg $overwrite -i "$i" -quality 88 gallery/web/"$newname".webp
+  ffmpeg $overwrite -i "$i" -qmin 1 -q 1 gallery/hq/"$newname".jpg
 done
