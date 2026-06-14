@@ -45,7 +45,7 @@ for i in import/original/*.png import/original_small/*.png
 do
   newname=$(basename "$i" ".png")
   ffmpeg $overwrite -i "$i" -quality 78 -filter:v "scale=500:-1" gallery/thumbnail/"$newname".webp
-  ffmpeg $overwrite -i "$i" -quality 88 -filter:v "scale=800:-1" gallery/web/"$newname".webp
+  ffmpeg $overwrite -i "$i" -quality 88 -filter:v "scale=950:-1" gallery/web/"$newname".webp
   
 done
 
