@@ -2,39 +2,21 @@
 This repository contains some of my various image creations. It serves as a portfolio-like gallery to show my works.
 
 <div align="center">
-  <a href="gallery/hq/Yoshika Harvest.jpg" style="text-decoration:none;border:0;">
-    <img src="gallery/thumbnail/Yoshika Harvest.webp" width="32%" alt="Yoshika">
-  </a>
-  <a href="gallery/hq/Koishi Space 2.jpg" style="text-decoration:none;border:0;">
-    <img src="gallery/thumbnail/Koishi Space 2.webp" width="32%" alt="Koishi in Space">
-  </a>
-  <a href="gallery/hq/Satori Frog.jpg">
-    <img src="gallery/thumbnail/Satori Frog.webp" width="32%" alt="Satori Frog">
-  </a>
+  <a href="gallery/hq/Yoshika Harvest.jpg"><img src="gallery/thumbnail/Yoshika Harvest.webp" width="32%" alt="Yoshika"></a>
+  <a href="gallery/hq/Koishi Space 2.jpg"><img src="gallery/thumbnail/Koishi Space 2.webp" width="32%" alt="Koishi in Space"></a>
+  <a href="gallery/hq/Satori Frog.jpg"><img src="gallery/thumbnail/Satori Frog.webp" width="32%" alt="Satori Frog"></a>
 </div>
 
 <div align="center">
-  <a href="gallery/hq/photo_yuuka.jpg" style="text-decoration:none;border:0;">
-    <img src="gallery/thumbnail/photo_yuuka.webp" width="32%" alt="Yuuka">
-  </a>
-  <a href="gallery/hq/photo_remilia2.jpg" style="text-decoration:none;border:0;">
-    <img src="gallery/thumbnail/photo_remilia2.webp" width="32%" alt="Remilia">
-  </a>
-  <a href="gallery/hq/photo_encounter.jpg" style="text-decoration:none;border:0;">
-     <img src="gallery/thumbnail/photo_encounter.webp" width="32%" alt="Yuuka's Encounter">
-  </a>
+  <a href="gallery/hq/photo_yuuka.jpg"><img src="gallery/thumbnail/photo_yuuka.webp" width="32%" alt="Yuuka"></a>
+  <a href="gallery/hq/photo_remilia2.jpg"><img src="gallery/thumbnail/photo_remilia2.webp" width="32%" alt="Remilia"></a>
+  <a href="gallery/hq/photo_encounter.jpg"><img src="gallery/thumbnail/photo_encounter.webp" width="32%" alt="Yuuka's Encounter"></a>
 </div>
 
 <div align="center">
-  <a href="gallery/hq/Mushroom Islands - Yuuka.jpg" style="text-decoration:none;border:0;">
-    <img src="gallery/thumbnail/Mushroom Islands - Yuuka.webp" width="32%" alt="Yuuka in The Floating Islands">
-  </a>
-  <a href="gallery/hq/Spiritomb_4-3.jpg" style="text-decoration:none;border:0;">
-    <img src="gallery/thumbnail/Spiritomb_4-3.webp" width="32%" alt="Spiritomb">
-  </a>
-  <a href="gallery/hq/Spirit.jpg" style="text-decoration:none;border:0;">
-     <img src="gallery/thumbnail/Spirit.webp" width="32%" alt="Metaknight's Stand?">
-  </a>
+  <a href="gallery/hq/Mushroom Islands - Yuuka.jpg"><img src="gallery/thumbnail/Mushroom Islands - Yuuka.webp" width="32%" alt="Yuuka in The Floating Islands"></a>
+  <a href="gallery/hq/Spiritomb_4-3.jpg"><img src="gallery/thumbnail/Spiritomb_4-3.webp" width="32%" alt="Spiritomb"></a>
+  <a href="gallery/hq/Spirit.jpg"><img src="gallery/thumbnail/Spirit.webp" width="32%" alt="Metaknight's Stand?"></a>
 </div>
 
 * **[2D Image Gallery](md/2d.md)**
