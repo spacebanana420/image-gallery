@@ -28,15 +28,20 @@ then
     exit
 fi
 
-if [[ $1 == "rewrite" ]] # Rewrite all images
+# Wipe and re-clone the repo for a smaller .git
+if [[ $1 == "reset" ]]
+then
+    cd ..
+    rm -rf image-gallery
+    git clone git@github.com:spacebanana420/image-gallery.git && cd image-gallery
+    exit
+fi
+
+# Whether to rewrite all images or only encode new ones
+if [[ $1 == "rewrite" ]]
 then
     overwrite="-y"
-elif [[ $1 == "reset" ]] # Erase all images and rewrite
-then
-    overwrite="-y"
-    rm -r gallery
-    mkdir gallery gallery/thumbnail gallery/web gallery/hq
-else # Only write new images
+else
     overwrite="-n"
 fi
 
