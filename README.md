@@ -3,37 +3,37 @@ This repository contains some of my various image creations. It serves as a port
 
 <div align="center">
   <a href="gallery/hq/Yoshika Harvest.jpg">
-    <img src="gallery/thumbnail/Yoshika Harvest.webp" width="32%" alt="Yoshika">
+    <img src="gallery/thumbnail/Yoshika Harvest.webp" width="32%" alt="Yoshika" style="border: none;">
   </a>
   <a href="gallery/hq/Koishi Space 2.jpg">
-    <img src="gallery/thumbnail/Koishi Space 2.webp" width="32%" alt="Koishi in Space">
+    <img src="gallery/thumbnail/Koishi Space 2.webp" width="32%" alt="Koishi in Space" style="border: none;">
   </a>
   <a href="gallery/hq/Satori Frog.jpg">
-    <img src="gallery/thumbnail/Satori Frog.webp" width="32%" alt="Satori Frog">
+    <img src="gallery/thumbnail/Satori Frog.webp" width="32%" alt="Satori Frog" style="border: none;">
   </a>
 </div>
 
 <div align="center">
   <a href="gallery/hq/photo_yuuka.jpg">
-    <img src="gallery/thumbnail/photo_yuuka.webp" width="32%" alt="Yuuka">
+    <img src="gallery/thumbnail/photo_yuuka.webp" width="32%" alt="Yuuka" style="border: none;">
   </a>
   <a href="gallery/hq/photo_remilia2.jpg">
-    <img src="gallery/thumbnail/photo_remilia2.webp" width="32%" alt="Remilia">
+    <img src="gallery/thumbnail/photo_remilia2.webp" width="32%" alt="Remilia" style="border: none;">
   </a>
   <a href="gallery/hq/photo_encounter.jpg">
-     <img src="gallery/thumbnail/photo_encounter.webp" width="32%" alt="Yuuka's Encounter">
+     <img src="gallery/thumbnail/photo_encounter.webp" width="32%" alt="Yuuka's Encounter" style="border: none;">
   </a>
 </div>
 
 <div align="center">
   <a href="gallery/hq/Mushroom Islands - Yuuka.jpg">
-    <img src="gallery/thumbnail/Mushroom Islands - Yuuka.webp" width="32%" alt="Yuuka in The Floating Islands">
+    <img src="gallery/thumbnail/Mushroom Islands - Yuuka.webp" width="32%" alt="Yuuka in The Floating Islands" style="border: none;">
   </a>
   <a href="gallery/hq/Spiritomb_4-3.jpg">
-    <img src="gallery/thumbnail/Spiritomb_4-3.webp" width="32%" alt="Spiritomb">
+    <img src="gallery/thumbnail/Spiritomb_4-3.webp" width="32%" alt="Spiritomb" style="border: none;">
   </a>
   <a href="gallery/hq/Spirit.jpg">
-     <img src="gallery/thumbnail/Spirit.webp" width="32%" alt="Metaknight's Stand?">
+     <img src="gallery/thumbnail/Spirit.webp" width="32%" alt="Metaknight's Stand?" style="border: none;">
   </a>
 </div>
 
