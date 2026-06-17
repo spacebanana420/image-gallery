@@ -11,6 +11,7 @@ Below are some of my images I created using Blender.
   <a href="../gallery/hq/Suwa Team.jpg"><img src="../gallery/web/Suwa Team.webp" width="45%" alt="Suwa Team"></a>
   <a href="../gallery/hq/The Outskirts - Scarlet Devil.jpg"><img src="../gallery/web/The Outskirts - Scarlet Devil.webp" width="45%" alt="The Outskirts - Scarlet Devil"></a>
   <a href="../gallery/hq/Doremy.jpg"><img src="../gallery/web/Doremy.webp" width="45%" alt="Doremy"></a>
+  <a href="../gallery/hq/Satori.jpg"><img src="../gallery/web/Satori.webp" width="45%" alt="Satori"></a>
   <a href="../gallery/hq/Spirit.jpg"><img src="../gallery/web/Spirit.webp" width="45%" alt="Spirit"></a>
   <a href="../gallery/hq/Tree House.jpg"><img src="../gallery/web/Tree House.webp" width="45%" alt="Tree House"></a>
   <a href="../gallery/hq/Yuyugopher.jpg"><img src="../gallery/web/Yuyugopher.webp" width="45%" alt="Yuyugopher"></a>
