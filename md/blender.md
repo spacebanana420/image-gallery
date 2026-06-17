@@ -7,6 +7,7 @@ Below are some of my images I created using Blender.
   <a href="../gallery/hq/Spiritomb_4-3.jpg"><img src="../gallery/web/Spiritomb_4-3.webp" width="45%" alt="Spiritomb"></a>
   <a href="../gallery/hq/Sanae Night.jpg"><img src="../gallery/web/Sanae Night.webp" width="45%" alt="Sanae Night"></a>
   <a href="../gallery/hq/Pumpkin.jpg"><img src="../gallery/web/Pumpkin.webp" width="45%" alt="Pumpkin"></a>
+  <a href="../gallery/hq/Kogasa.jpg"><img src="../gallery/web/Kogasa.webp" width="45%" alt="Kogasa"></a>
   <a href="../gallery/hq/Komeiji.jpg"><img src="../gallery/web/Komeiji.webp" width="45%" alt="Komeiji House"></a>
   <a href="../gallery/hq/Suwa Team.jpg"><img src="../gallery/web/Suwa Team.webp" width="45%" alt="Suwa Team"></a>
   <a href="../gallery/hq/The Outskirts - Scarlet Devil.jpg"><img src="../gallery/web/The Outskirts - Scarlet Devil.webp" width="45%" alt="The Outskirts - Scarlet Devil"></a>
