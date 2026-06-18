@@ -4,6 +4,7 @@ Below are some of my images I created on Garry's Mod.
 
 <div align="center">
   <a href="../gallery/hq/Kogasa Pumpkin.jpg"><img src="../gallery/web/Kogasa Pumpkin.webp" width="45%" alt="Kogasa Pumpkin"></a>
+  <a href="../gallery/hq/Kogasa Pumpkin 2.jpg"><img src="../gallery/web/Kogasa Pumpkin 2.webp" width="45%" alt="Kogasa Pumpkin 2"></a>
   <a href="../gallery/hq/Kogasa Computer.jpg"><img src="../gallery/web/Kogasa Computer.webp" width="45%" alt="Kogasa Computer"></a>
   <a href="../gallery/hq/Spinda Party.jpg"><img src="../gallery/web/Spinda Party.webp" width="45%" alt="Spinda Party"></a>
   <a href="../gallery/hq/Kogasa Night.jpg"><img src="../gallery/web/Kogasa Night.webp" width="45%" alt="Kogasa Night"></a>
