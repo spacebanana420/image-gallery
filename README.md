@@ -15,7 +15,7 @@ This repository contains some of my various image creations. It serves as a port
 
 <div align="center">
   <a href="gallery/hq/Mushroom Islands - Yuuka.jpg"><img src="gallery/thumbnail/Mushroom Islands - Yuuka.webp" width="32%" alt="Yuuka in The Floating Islands"></a>
-  <a href="gallery/hq/Spiritomb_4-3.jpg"><img src="gallery/thumbnail/Spiritomb_4-3.webp" width="32%" alt="Spiritomb"></a>
+  <a href="gallery/hq/Spiritomb.jpg"><img src="gallery/thumbnail/Spiritomb.webp" width="32%" alt="Spiritomb"></a>
   <a href="gallery/hq/Spirit.jpg"><img src="gallery/thumbnail/Spirit.webp" width="32%" alt="Metaknight's Stand?"></a>
 </div>
 

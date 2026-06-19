@@ -4,7 +4,7 @@ Below are some of my images I created using Blender.
 
 <div align="center">
   <a href="../gallery/hq/Mushroom Islands - Yuuka.jpg"><img src="../gallery/web/Mushroom Islands - Yuuka.webp" width="45%" alt="Yuuka on The Mushroom Islands"></a>
-  <a href="../gallery/hq/Spiritomb_4-3.jpg"><img src="../gallery/web/Spiritomb_4-3.webp" width="45%" alt="Spiritomb"></a>
+  <a href="../gallery/hq/Spiritomb.jpg"><img src="../gallery/web/Spiritomb.webp" width="45%" alt="Spiritomb"></a>
   <a href="../gallery/hq/Sanae Night.jpg"><img src="../gallery/web/Sanae Night.webp" width="45%" alt="Sanae Night"></a>
   <a href="../gallery/hq/Pumpkin.jpg"><img src="../gallery/web/Pumpkin.webp" width="45%" alt="Pumpkin"></a>
   <a href="../gallery/hq/Kogasa.jpg"><img src="../gallery/web/Kogasa.webp" width="45%" alt="Kogasa"></a>
