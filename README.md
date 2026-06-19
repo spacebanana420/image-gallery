@@ -19,6 +19,12 @@ This repository contains some of my various image creations. It serves as a port
   <a href="gallery/hq/Spirit.jpg"><img src="gallery/thumbnail/Spirit.webp" width="32%" alt="Metaknight's Stand?"></a>
 </div>
 
+<div align="center">
+  <a href="gallery/hq/Kogasa Pumpkin 2.jpg"><img src="gallery/thumbnail/Kogasa Pumpkin 2.webp" width="32%" alt="Kogasa Pumpkin 2"></a>
+  <a href="gallery/hq/Spinda Party.jpg"><img src="gallery/thumbnail/Spinda Party.webp" width="32%" alt="Spinda Party"></a>
+  <a href="gallery/hq/Slowpoke Escape.jpg"><img src="gallery/thumbnail/Slowpoke Escape.webp" width="32%" alt="Slowpoke Escape"></a>
+</div>
+
 * **[2D Image Gallery](md/2d.md)**
 * **[3D Gallery (Blender)](md/blender.md)**
 * **[3D Gallery (Garry's Mod)](md/gmod.md)**
