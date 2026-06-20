@@ -31,11 +31,19 @@ This repository contains some of my various image creations. It serves as a port
 * **[Photography Gallery](md/photo.md)**
 
 ### Other Links
+* **[High Quality Image Archive](gallery/hq)**
 * **[Steam Gallery](https://steamcommunity.com/id/spacebanana420/images/)**
 * **[Image Artwork Overview](https://github.com/spacebanana420/spacebanana420/blob/main/md/image.md)**
-* **[High Quality Image Archive](gallery/hq)**
 
-The quality and resolution of the images here was decreased to spare on file size. Images in `thumbnail` and `web` have lower quality for viewing, while all images in `hq` are higher quality, though JPG to spare on gallery size. The original images are all in PNG, but that would be too heavy for the repo.
+### Technical details
+My artworks uploaded to this repo are converted 3 times:
+* Small WEBP version for previews in this page
+* Medium-size WEBP version for previews in each gallery
+* High-reoslution JPG version
+
+The original images are in PNG, usually at 2560x1600 or 2560x1440 resolution, but are converted to 1920 pixels wide JPG to spare on file size.
+
+Images in `thumbnail` and `web` have lower quality for viewing (the WEBP versions), while `hq` stores the JPG versions.
 
 ## License
 
