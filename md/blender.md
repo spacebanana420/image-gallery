@@ -17,6 +17,7 @@ Below are some of my images I created using Blender.
   <a href="../gallery/hq/Spirit.jpg"><img src="../gallery/web/Spirit.webp" width="45%" alt="Spirit"></a>
   <a href="../gallery/hq/Shrine Lake.jpg"><img src="../gallery/web/Shrine Lake.webp" width="45%" alt="Shrine Lake"></a>
   <a href="../gallery/hq/Tree House.jpg"><img src="../gallery/web/Tree House.webp" width="45%" alt="Tree House"></a>
+  <a href="../gallery/hq/Satori Crew.jpg"><img src="../gallery/web/Satori Crew.webp" width="45%" alt="Satori Crew"></a>
   <a href="../gallery/hq/Yuyugopher.jpg"><img src="../gallery/web/Yuyugopher.webp" width="45%" alt="Yuyugopher"></a>
   <a href="../gallery/hq/Wakasagihime River.jpg"><img src="../gallery/web/Wakasagihime River.webp" width="45%" alt="Wakasagihime River"></a>
   <a href="../gallery/hq/The Outskirts - Iku.jpg"><img src="../gallery/web/The Outskirts - Iku.webp" width="45%" alt="The Outskirts - Iku"></a>
