@@ -3,6 +3,7 @@
 Below are some of my images I created on Garry's Mod.
 
 <div align="center">
+  <a href="../gallery/hq/Rei M4.jpg"><img src="../gallery/web/Rei M4.webp" width="45%" alt="Rei M4"></a>
   <a href="../gallery/hq/Kogasa Pumpkin.jpg"><img src="../gallery/web/Kogasa Pumpkin.webp" width="45%" alt="Kogasa Pumpkin"></a>
   <a href="../gallery/hq/Kogasa Pumpkin 2.jpg"><img src="../gallery/web/Kogasa Pumpkin 2.webp" width="45%" alt="Kogasa Pumpkin 2"></a>
   <a href="../gallery/hq/Kogasa Computer.jpg"><img src="../gallery/web/Kogasa Computer.webp" width="45%" alt="Kogasa Computer"></a>
