@@ -32,6 +32,7 @@ This repository contains some of my various image creations. It serves as a port
 
 ### Other Links
 * **[High Quality Image Archive](gallery/hq)**
+* **[Credits](md/credits.md)**
 * **[Steam Gallery](https://steamcommunity.com/id/spacebanana420/images/)**
 * **[Image Artwork Overview](https://github.com/spacebanana420/spacebanana420/blob/main/md/image.md)**
 
