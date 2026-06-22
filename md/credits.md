@@ -18,7 +18,7 @@ I use many assets for creating my works. Below are the sources for the main sour
 * [Remilia Scarlet by すけ](https://3d.nicovideo.jp/works/td27083)
 * [Kogasa Tatara by すけ](https://3d.nicovideo.jp/works/td26156)
 * [Adachi Rei by 一止月サノツキ](https://3d.nicovideo.jp/works/td87166)
-* [Zundamon by Serre](https://3d.nicovideo.jp/works/td83389)
+* [Zundamon by Serre](https://3d.nicovideo.jp/works/td84147)
 * [GyateGyate Kyouko by テンパカ](https://bowlroll.net/file/89719)
 * [Koishi Komeiji by anek](https://bowlroll.net/file/82821)
 * [Satori Komeiji by フテイケイ](https://bowlroll.net/file/303789)
