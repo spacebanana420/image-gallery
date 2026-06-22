@@ -8,6 +8,7 @@ I use many assets for creating my works. Below are the sources for the main sour
 * **Twilight Frontier** - Official Touhou portraits and sprites
 * **Nintendo (Pokémon, Kirby, Super Mario)** - Official models, portraits and sprites
 * **Rain World** - Official portraits and illustration
+* **Plants vs Zombies** - Sunflower illustration
 * **[へもぐろびんＡ１Ｃ](https://www.pixiv.net/en/users/465582)** (NSFW warning) - portraits from Touhou Puppet Dance Performance
 * **[Dairi](https://www.pixiv.net/en/users/4920496)** - Portraits
 * **[Walfas](https://walfas.org/)** - Touhou characters extracted from Flash file
@@ -24,7 +25,10 @@ I use many assets for creating my works. Below are the sources for the main sour
 
 ## Other credits
 
+* [Adachi Rei portrait](https://mechanicalgirl.jp/)
+* [Kasane Teto portrait](https://kasaneteto.jp/)
 * [Gopher (Go mascot)](https://github.com/egonelbre/gophers)
 * [Xue (Xfce mascot)](https://www.xfce.org/download#artwork)
+* [Pandemonium](https://urbanshade.org/wiki/Pandemonium)
 
 GyateGyate-styled artworks might be used in some of my images, but unfortunately they come from unknown sources.
