@@ -23,7 +23,7 @@ fi
 if [[ $1 == "download" ]]
 then
     rm -r import
-    git clone git@github.com:spacebanana420/image-gallery-originals.git
+    git clone git@github.com:spacebanana420/image-gallery-originals.git --depth 1
     mv image-gallery-originals import
     exit
 fi
@@ -33,7 +33,7 @@ if [[ $1 == "reset" ]]
 then
     cd ..
     rm -rf image-gallery
-    git clone git@github.com:spacebanana420/image-gallery.git && cd image-gallery
+    git clone git@github.com:spacebanana420/image-gallery.git --depth 1 && cd image-gallery
     exit
 fi
 
