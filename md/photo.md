@@ -6,6 +6,7 @@ Below are some of my photographs.
   <a href="../gallery/hq/photo_remilia2.jpg"><img src="../gallery/web/photo_remilia2.webp" width="45%" alt="Remilia"></a>
   <a href="../gallery/hq/photo_yuuka2.jpg"><img src="../gallery/web/photo_yuuka2.webp" width="45%" alt="Yuuka"></a>
   <a href="../gallery/hq/photo_lemon.jpg"><img src="../gallery/web/photo_lemon.webp" width="45%" alt="Lemon"></a>
+  <a href="../gallery/hq/photo_pigeon.jpg"><img src="../gallery/web/photo_pigeon.webp" width="45%" alt="Pigeon"></a>
   <a href="../gallery/hq/photo_saint.jpg"><img src="../gallery/web/photo_saint.webp" width="45%" alt="The Saint"></a>
   <a href="../gallery/hq/photo_yuuka.jpg"><img src="../gallery/web/photo_yuuka.webp" width="45%" alt="Yuuka Kazami"></a>
   <a href="../gallery/hq/photo_remilia.jpg"><img src="../gallery/web/photo_remilia.webp" width="45%" alt="Remilia"></a>
