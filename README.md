@@ -8,9 +8,9 @@ This repository contains some of my various image creations. It serves as a port
 </div>
 
 <div align="center">
-  <a href="gallery/hq/photo_yuuka.jpg"><img src="gallery/thumbnail/photo_yuuka.webp" width="32%" alt="Yuuka"></a>
+  <a href="gallery/hq/Madeira1_DSC_0116.jpg"><img src="gallery/thumbnail/Madeira1_DSC_0116.webp" width="32%" alt="Yuuka"></a>
   <a href="gallery/hq/photo_remilia2.jpg"><img src="gallery/thumbnail/photo_remilia2.webp" width="32%" alt="Remilia"></a>
-  <a href="gallery/hq/photo_encounter.jpg"><img src="gallery/thumbnail/photo_encounter.webp" width="32%" alt="Yuuka's Encounter"></a>
+  <a href="gallery/hq/Madeira1_DSC_0094.jpg"><img src="gallery/thumbnail/Madeira1_DSC_0094.webp" width="32%" alt="Above The Clouds"></a>
 </div>
 
 <div align="center">
