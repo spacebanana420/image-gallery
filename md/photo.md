@@ -27,6 +27,7 @@ Below are some of my photographs.
   <a href="../gallery/hq/photo_yuuka.jpg"><img src="../gallery/web/photo_yuuka.webp" width="45%" alt="Yuuka Kazami"></a>
   <a href="../gallery/hq/photo_remilia.jpg"><img src="../gallery/web/photo_remilia.webp" width="45%" alt="Remilia"></a>
   <a href="../gallery/hq/photo_shark.jpg"><img src="../gallery/web/photo_shark.webp" width="45%" alt="Yuuka and Shark"></a>
+  <a href="../gallery/hq/Madeira1_DSC_0067.jpg"><img src="../gallery/web/Madeira1_DSC_0067.webp" width="45%" alt="Madeira"></a>
   <a href="../gallery/hq/Madeira2_DSC_0004.jpg"><img src="../gallery/web/Madeira2_DSC_0004.webp" width="45%" alt="Pebbles"></a>
   <a href="../gallery/hq/Madeira1_DSC_0094.jpg"><img src="../gallery/web/Madeira1_DSC_0094.webp" width="45%" alt="Mountain Peak"></a>
   <a href="../gallery/hq/photo_yuukaoshawott.jpg"><img src="../gallery/web/photo_yuukaoshawott.webp" width="45%" alt="Yuuka and Oshawott"></a>
