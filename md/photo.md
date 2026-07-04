@@ -14,12 +14,14 @@ Below are some of my photographs.
   <a href="../gallery/hq/photo_yuuka3.jpg"><img src="../gallery/web/photo_yuuka3.webp" width="45%" alt="Yuuka"></a>
   <a href="../gallery/hq/Madeira3_DSC_0001.jpg"><img src="../gallery/web/Madeira3_DSC_0001.webp" width="45%" alt="Mountain Wall"></a>
   <a href="../gallery/hq/Madeira1_DSC_0162.jpg"><img src="../gallery/web/Madeira1_DSC_0162.webp" width="45%" alt="Komainu"></a>
+  <a href="../gallery/hq/Madeira1_DSC_0052.jpg"><img src="../gallery/web/Madeira1_DSC_0052.webp" width="45%" alt="Hina"></a>
   <a href="../gallery/hq/photo_lemon.jpg"><img src="../gallery/web/photo_lemon.webp" width="45%" alt="Lemon"></a>
   <a href="../gallery/hq/photo_pigeon.jpg"><img src="../gallery/web/photo_pigeon.webp" width="45%" alt="Pigeon"></a>
   <a href="../gallery/hq/Madeira1_DSC_0072.jpg"><img src="../gallery/web/Madeira1_DSC_0072.webp" width="45%" alt="Mountains"></a>
   <a href="../gallery/hq/photo_saint.jpg"><img src="../gallery/web/photo_saint.webp" width="45%" alt="The Saint"></a>
   <a href="../gallery/hq/Madeira1_DSC_0165.jpg"><img src="../gallery/web/Madeira1_DSC_0165.webp" width="45%" alt="Cock"></a>
   <a href="../gallery/hq/Madeira2_DSC_0013.jpg"><img src="../gallery/web/Madeira2_DSC_0013.webp" width="45%" alt="Bee"></a>
+  <a href="../gallery/hq/Madeira1_DSC_0012.jpg"><img src="../gallery/web/Madeira1_DSC_0012.webp" width="45%" alt="Bee"></a>
   <a href="../gallery/hq/photo_yuuka.jpg"><img src="../gallery/web/photo_yuuka.webp" width="45%" alt="Yuuka Kazami"></a>
   <a href="../gallery/hq/photo_remilia.jpg"><img src="../gallery/web/photo_remilia.webp" width="45%" alt="Remilia"></a>
   <a href="../gallery/hq/photo_shark.jpg"><img src="../gallery/web/photo_shark.webp" width="45%" alt="Yuuka and Shark"></a>
