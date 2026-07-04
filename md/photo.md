@@ -40,4 +40,5 @@ Below are some of my photographs.
   <a href="../gallery/hq/Madeira1_DSC_0002.jpg"><img src="../gallery/web/Madeira1_DSC_0002.webp" width="45%" alt="Houses"></a>
   <a href="../gallery/hq/photo_remilia3.jpg"><img src="../gallery/web/photo_remilia3.webp" width="45%" alt="Remilia"></a>
   <a href="../gallery/hq/photo_youmu.jpg"><img src="../gallery/web/photo_youmu.webp" width="45%" alt="Youmu"></a>
+  <a href="../gallery/hq/Madeira2_DSC_0021.jpg"><img src="../gallery/web/Madeira2_DSC_0021.webp" width="45%" alt="Frog"></a>
 </div>
