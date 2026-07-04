@@ -7,6 +7,8 @@ Below are some of my photographs.
   <a href="../gallery/hq/Madeira1_DSC_0116.jpg"><img src="../gallery/web/Madeira1_DSC_0116.webp" width="45%" alt="Yuuka Mountain"></a>
   <a href="../gallery/hq/Madeira1_DSC_0089.jpg"><img src="../gallery/web/Madeira1_DSC_0089.webp" width="45%" alt="Yuuka Mountain"></a>
   <a href="../gallery/hq/Madeira2_DSC_0028.jpg"><img src="../gallery/web/Madeira2_DSC_0028.webp" width="45%" alt="Mountain Clouds"></a>
+  <a href="../gallery/hq/Madeira1_DSC_0124.jpg"><img src="../gallery/web/Madeira1_DSC_0124.webp" width="45%" alt="Forest"></a>
+  <a href="../gallery/hq/Madeira1_DSC_0126.jpg"><img src="../gallery/web/Madeira1_DSC_0126.webp" width="45%" alt="Forest"></a>
   <a href="../gallery/hq/Madeira1_DSC_0137.jpg"><img src="../gallery/web/Madeira1_DSC_0137.webp" width="45%" alt="Flower"></a>
   <a href="../gallery/hq/photo_yuuka2.jpg"><img src="../gallery/web/photo_yuuka2.webp" width="45%" alt="Yuuka"></a>
   <a href="../gallery/hq/Madeira1_DSC_0002.jpg"><img src="../gallery/web/Madeira1_DSC_0002.webp" width="45%" alt="Houses"></a>
