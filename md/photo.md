@@ -42,4 +42,7 @@ Below are some of my photographs.
   <a href="../gallery/hq/photo_remilia3.jpg"><img src="../gallery/web/photo_remilia3.webp" width="45%" alt="Remilia"></a>
   <a href="../gallery/hq/photo_youmu.jpg"><img src="../gallery/web/photo_youmu.webp" width="45%" alt="Youmu"></a>
   <a href="../gallery/hq/Madeira2_DSC_0021.jpg"><img src="../gallery/web/Madeira2_DSC_0021.webp" width="45%" alt="Frog"></a>
+  <a href="../gallery/hq/River_DSC_0384.jpg"><img src="../gallery/web/River_DSC_0384.webp" width="45%" alt="River"></a>
+  <a href="../gallery/hq/River_DSC_0392.jpg"><img src="../gallery/web/River_DSC_0392.webp" width="45%" alt="Path"></a>
+  <a href="../gallery/hq/River_DSC_0399.jpg"><img src="../gallery/web/River_DSC_0399.webp" width="45%" alt="Mountain"></a>
 </div>
