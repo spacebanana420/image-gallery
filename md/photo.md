@@ -30,6 +30,7 @@ Below are some of my photographs.
   <a href="../gallery/hq/Madeira1_DSC_0067.jpg"><img src="../gallery/web/Madeira1_DSC_0067.webp" width="45%" alt="Madeira"></a>
   <a href="../gallery/hq/Madeira2_DSC_0004.jpg"><img src="../gallery/web/Madeira2_DSC_0004.webp" width="45%" alt="Pebbles"></a>
   <a href="../gallery/hq/Madeira1_DSC_0094.jpg"><img src="../gallery/web/Madeira1_DSC_0094.webp" width="45%" alt="Mountain Peak"></a>
+  <a href="../gallery/hq/Madeira1_DSC_0027.jpg"><img src="../gallery/web/Madeira1_DSC_0027.webp" width="45%" alt="Yuuka and Hina"></a>
   <a href="../gallery/hq/photo_yuukaoshawott.jpg"><img src="../gallery/web/photo_yuukaoshawott.webp" width="45%" alt="Yuuka and Oshawott"></a>
   <a href="../gallery/hq/photo_remisaint.jpg"><img src="../gallery/web/photo_remisaint.webp" width="45%" alt="Remilia and Saint"></a>
   <a href="../gallery/hq/photo_path.jpg"><img src="../gallery/web/photo_path.webp" width="45%" alt="Path"></a>
