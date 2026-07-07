@@ -12,8 +12,8 @@ fi
 # Delete PNG originals and cleans up .git directory
 if [[ $1 == "cleanup" ]]
 then
-   rm -rf import/original import/original_small
-   mkdir import/original import/original_small
+   rm -rf import/original import/jpg import/original_small
+   mkdir import/original import/jpg import/original_small
    git reflog expire --expire=now --all
    git gc --auto
    exit
@@ -22,7 +22,7 @@ fi
 # Fetch PNG originals from repo
 if [[ $1 == "download" ]]
 then
-    rm -r import
+    rm -rf import
     git clone git@github.com:spacebanana420/image-gallery-originals.git --depth 1
     mv image-gallery-originals import
     exit
@@ -45,14 +45,16 @@ else
     overwrite="-n"
 fi
 
+ffmpeg_base_args="-loglevel warning -threads 1 $overwrite"
+
 #Create lower-quality previews for all images
 for i in import/original/*.png import/original_small/*.png import/jpg/*.jpg
 do
   newname=$(basename "$i" ".png")
   newname=$(basename "$newname" ".jpg")
   
-  ffmpeg -loglevel warning $overwrite -i "$i" -quality 78 -filter:v "scale=500:-1" gallery/thumbnail/"$newname".webp
-  ffmpeg -loglevel warning $overwrite -i "$i" -quality 88 -filter:v "scale=950:-1" gallery/web/"$newname".webp
+  ffmpeg $ffmpeg_base_args -i "$i" -quality 86 -filter:v "scale=400:-1" gallery/thumbnail/"$newname".webp &
+  ffmpeg $ffmpeg_base_args -i "$i" -quality 90 -filter:v "scale=780:-1" gallery/web/"$newname".webp &
   
 done
 
@@ -60,14 +62,14 @@ done
 for i in import/original/*.png
 do
   newname=$(basename "$i" ".png")
-  ffmpeg -loglevel warning $overwrite -i "$i" -qmin 1 -q 1 -filter:v "scale=1920:-1" gallery/hq/"$newname".jpg
+  ffmpeg $ffmpeg_base_args -i "$i" -qmin 1 -q 1 -frames:v 1 -filter:v "scale=1920:-1" gallery/hq/"$newname".jpg &
 done
 
 #For images equal or below 1920 width, make a HQ version without resizing instead
 for i in import/original_small/*.png
 do
   newname=$(basename "$i" ".png")
-  ffmpeg -loglevel warning $overwrite -i "$i" -qmin 1 -q 1 gallery/hq/"$newname".jpg
+  ffmpeg $ffmpeg_base_args -i "$i" -qmin 1 -q 1 -frames:v 1 gallery/hq/"$newname".jpg &
 done
 
 
