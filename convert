@@ -5,7 +5,7 @@
 # Create directories
 if [[ $1 == "setup" ]]
 then
-   mkdir gallery gallery/thumbnail gallery/web gallery/hq import import/original import/original_small
+   mkdir gallery gallery/thumbnail gallery/web gallery/hq import import/original import/jpg import/original_small
    exit
 fi
 
