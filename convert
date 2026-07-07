@@ -53,8 +53,8 @@ do
   newname=$(basename "$i" ".png")
   newname=$(basename "$newname" ".jpg")
   
-  ffmpeg $ffmpeg_base_args -i "$i" -quality 86 -filter:v "scale=400:-1" gallery/thumbnail/"$newname".webp &
-  ffmpeg $ffmpeg_base_args -i "$i" -quality 90 -filter:v "scale=780:-1" gallery/web/"$newname".webp &
+  ffmpeg $ffmpeg_base_args -i "$i" -quality 88 -filter:v "scale=500:-1" gallery/thumbnail/"$newname".webp &
+  ffmpeg $ffmpeg_base_args -i "$i" -quality 90 -filter:v "scale=860:-1" gallery/web/"$newname".webp &
   
 done
 
