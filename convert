@@ -37,16 +37,6 @@ then
     exit
 fi
 
-if [[ $1 == "commit" ]]
-then
-    git add * && git commit -a -m "$2" && git push
-    cd import
-    git add * && git commit -a -m "$2" && git push
-    cd ..
-    exit
-fi
-
-
 # Whether to rewrite all images or only encode new ones
 if [[ $1 == "rewrite" ]]
 then
