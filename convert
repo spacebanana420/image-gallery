@@ -37,6 +37,16 @@ then
     exit
 fi
 
+if [[ $1 == "commit" ]]
+then
+    git add * && git commit -a -m "$2" && git push
+    cd import
+    git add * && git commit -a -m "$2" && git push
+    cd ..
+    exit
+fi
+
+
 # Whether to rewrite all images or only encode new ones
 if [[ $1 == "rewrite" ]]
 then
@@ -53,8 +63,8 @@ do
   newname=$(basename "$i" ".png")
   newname=$(basename "$newname" ".jpg")
   
-  ffmpeg $ffmpeg_base_args -i "$i" -quality 85 -filter:v "scale=480:-1" gallery/thumbnail/"$newname".webp &
-  ffmpeg $ffmpeg_base_args -i "$i" -quality 90 -filter:v "scale=850:-1" gallery/web/"$newname".webp &
+  ffmpeg $ffmpeg_base_args -i "$i" -quality 85 -filter:v "scale=460:-1" gallery/thumbnail/"$newname".webp &
+  ffmpeg $ffmpeg_base_args -i "$i" -quality 90 -filter:v "scale=900:-1" gallery/web/"$newname".webp &
   
 done
 
