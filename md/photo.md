@@ -34,6 +34,7 @@ Below are some of my photographs.
   <a href="../gallery/hq/Madeira1_DSC_0027.jpg"><img src="../gallery/web/Madeira1_DSC_0027.webp" width="45%" alt="Yuuka and Hina"></a>
   <a href="../gallery/hq/photo_yuukaoshawott.jpg"><img src="../gallery/web/photo_yuukaoshawott.webp" width="45%" alt="Yuuka and Oshawott"></a>
   <a href="../gallery/hq/photo_remisaint.jpg"><img src="../gallery/web/photo_remisaint.webp" width="45%" alt="Remilia and Saint"></a>
+  <a href="../gallery/hq/Madeira1_DSC_0169.jpg"><img src="../gallery/web/Madeira1_DSC_0169.webp" width="45%" alt="Fish"></a>
   <a href="../gallery/hq/photo_path.jpg"><img src="../gallery/web/photo_path.webp" width="45%" alt="Path"></a>
   <a href="../gallery/hq/Madeira1_DSC_0140.jpg"><img src="../gallery/web/Madeira1_DSC_0140.webp" width="45%" alt="Goats"></a>
   <a href="../gallery/hq/photo_encounter.jpg"><img src="../gallery/web/photo_encounter.webp" width="45%" alt="Yuuka's Encounter"></a>
