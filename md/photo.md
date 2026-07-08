@@ -22,6 +22,7 @@ Below are some of my photographs.
   <a href="../gallery/hq/Madeira1_DSC_0072.jpg"><img src="../gallery/web/Madeira1_DSC_0072.webp" width="45%" alt="Mountains"></a>
   <a href="../gallery/hq/photo_saint.jpg"><img src="../gallery/web/photo_saint.webp" width="45%" alt="The Saint"></a>
   <a href="../gallery/hq/Madeira1_DSC_0165.jpg"><img src="../gallery/web/Madeira1_DSC_0165.webp" width="45%" alt="Cock"></a>
+  <a href="../gallery/hq/Madeira1_DSC_0148.jpg"><img src="../gallery/web/Madeira1_DSC_0148.webp" width="45%" alt="Yuuka"></a>
   <a href="../gallery/hq/Madeira2_DSC_0013.jpg"><img src="../gallery/web/Madeira2_DSC_0013.webp" width="45%" alt="Bee"></a>
   <a href="../gallery/hq/Madeira1_DSC_0012.jpg"><img src="../gallery/web/Madeira1_DSC_0012.webp" width="45%" alt="Bee"></a>
   <a href="../gallery/hq/photo_yuuka.jpg"><img src="../gallery/web/photo_yuuka.webp" width="45%" alt="Yuuka Kazami"></a>
