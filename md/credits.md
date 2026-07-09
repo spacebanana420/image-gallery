@@ -30,5 +30,6 @@ I use many assets for creating my works. Below are the sources for the main sour
 * [Gopher (Go mascot)](https://github.com/egonelbre/gophers)
 * [Xue (Xfce mascot)](https://www.xfce.org/download#artwork)
 * [Pandemonium](https://urbanshade.org/wiki/Pandemonium)
+* Many screenshots are taken in Garry's Mod, Minecraft, Vintage Story and Space Engine
 
 GyateGyate-styled artworks might be used in some of my images, but unfortunately they come from unknown sources.
