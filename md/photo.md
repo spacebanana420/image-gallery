@@ -14,6 +14,7 @@ Below are some of my photographs.
   <a href="../gallery/hq/Madeira1_DSC_0002.jpg"><img src="../gallery/web/Madeira1_DSC_0002.webp" width="45%" alt="Houses"></a>
   <a href="../gallery/hq/Madeira1_DSC_0013.jpg"><img src="../gallery/web/Madeira1_DSC_0013.webp" width="45%" alt="Madeira East"></a>
   <a href="../gallery/hq/photo_yuuka3.jpg"><img src="../gallery/web/photo_yuuka3.webp" width="45%" alt="Yuuka"></a>
+  <a href="../gallery/hq/YuukaLionesa_DSC_0004.jpg"><img src="../gallery/web/YuukaLionesa_DSC_0004.webp" width="45%" alt="Yuuka Cycling"></a>
   <a href="../gallery/hq/Madeira3_DSC_0001.jpg"><img src="../gallery/web/Madeira3_DSC_0001.webp" width="45%" alt="Mountain Wall"></a>
   <a href="../gallery/hq/Madeira1_DSC_0162.jpg"><img src="../gallery/web/Madeira1_DSC_0162.webp" width="45%" alt="Komainu"></a>
   <a href="../gallery/hq/Madeira1_DSC_0052.jpg"><img src="../gallery/web/Madeira1_DSC_0052.webp" width="45%" alt="Hina"></a>
