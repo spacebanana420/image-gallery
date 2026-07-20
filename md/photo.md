@@ -18,6 +18,8 @@ Below are some of my photographs.
   <a href="../gallery/hq/Madeira3_DSC_0001.jpg"><img src="../gallery/web/Madeira3_DSC_0001.webp" width="45%" alt="Mountain Wall"></a>
   <a href="../gallery/hq/Madeira1_DSC_0162.jpg"><img src="../gallery/web/Madeira1_DSC_0162.webp" width="45%" alt="Komainu"></a>
   <a href="../gallery/hq/Madeira1_DSC_0052.jpg"><img src="../gallery/web/Madeira1_DSC_0052.webp" width="45%" alt="Hina"></a>
+  <a href="../gallery/hq/PortoYuukaRemi_DSC_0002.jpg"><img src="../gallery/web/PortoYuukaRemi_DSC_0002.webp" width="45%" alt="Yuuka Tree"></a>
+  <a href="../gallery/hq/PortoYuukaRemi_DSC_0004.jpg"><img src="../gallery/web/PortoYuukaRemi_DSC_0004.webp" width="45%" alt="Remilia Tree"></a>
   <a href="../gallery/hq/photo_lemon.jpg"><img src="../gallery/web/photo_lemon.webp" width="45%" alt="Lemon"></a>
   <a href="../gallery/hq/photo_pigeon.jpg"><img src="../gallery/web/photo_pigeon.webp" width="45%" alt="Pigeon"></a>
   <a href="../gallery/hq/Madeira1_DSC_0072.jpg"><img src="../gallery/web/Madeira1_DSC_0072.webp" width="45%" alt="Mountains"></a>
@@ -42,8 +44,6 @@ Below are some of my photographs.
   <a href="../gallery/hq/Madeira2_DSC_0001.jpg"><img src="../gallery/web/Madeira2_DSC_0001.webp" width="45%" alt="Pillar"></a>
   <a href="../gallery/hq/Madeira1_DSC_0010.jpg"><img src="../gallery/web/Madeira1_DSC_0010.webp" width="45%" alt="Docks"></a>
   <a href="../gallery/hq/photo_remilia3.jpg"><img src="../gallery/web/photo_remilia3.webp" width="45%" alt="Remilia"></a>
-  <a href="../gallery/hq/PortoYuukaRemi_DSC_0002.jpg"><img src="../gallery/web/PortoYuukaRemi_DSC_0002.webp" width="45%" alt="Yuuka Tree"></a>
-  <a href="../gallery/hq/PortoYuukaRemi_DSC_0004.jpg"><img src="../gallery/web/PortoYuukaRemi_DSC_0004.webp" width="45%" alt="Remilia Tree"></a>
   <a href="../gallery/hq/photo_youmu.jpg"><img src="../gallery/web/photo_youmu.webp" width="45%" alt="Youmu"></a>
   <a href="../gallery/hq/Madeira2_DSC_0021.jpg"><img src="../gallery/web/Madeira2_DSC_0021.webp" width="45%" alt="Frog"></a>
   <a href="../gallery/hq/River_DSC_0384.jpg"><img src="../gallery/web/River_DSC_0384.webp" width="45%" alt="River"></a>
