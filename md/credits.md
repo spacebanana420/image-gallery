@@ -6,6 +6,7 @@ I use many assets for creating my works. Below are the sources for the main sour
 
 * **Team Shanghai Alice (ZUN)** -  Official Touhou portraits
 * **Twilight Frontier** - Official Touhou portraits and sprites
+* **Trickcal: Chibi Go** - Official Trickcal sprites
 * **Nintendo (Pokémon, Kirby, Super Mario)** - Official models, portraits and sprites
 * **Rain World** - Official portraits and illustration
 * **Plants vs Zombies** - Sunflower illustration
