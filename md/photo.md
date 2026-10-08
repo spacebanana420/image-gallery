@@ -10,6 +10,7 @@ Below are some of my photographs.
   <a href="../gallery/hq/DutchDuckDSC_0001.jpg"><img src="../gallery/web/DutchDuckDSC_0001.webp" width="45%" alt="Duck"></a>
   <a href="../gallery/hq/Madeira1_DSC_0124.jpg"><img src="../gallery/web/Madeira1_DSC_0124.webp" width="45%" alt="Forest"></a>
   <a href="../gallery/hq/Madeira1_DSC_0126.jpg"><img src="../gallery/web/Madeira1_DSC_0126.webp" width="45%" alt="Forest"></a>
+  <a href="../gallery/hq/DenHaag_DSC_0001.jpg"><img src="../gallery/web/DenHaag_DSC_0001.webp" width="45%" alt="In de trein"></a>
   <a href="../gallery/hq/Madeira1_DSC_0137.jpg"><img src="../gallery/web/Madeira1_DSC_0137.webp" width="45%" alt="Flower"></a>
   <a href="../gallery/hq/AmsterdamCentraal_DSC_0014.jpg"><img src="../gallery/web/AmsterdamCentraal_DSC_0014.webp" width="45%" alt="Saint in Amsterdam"></a>
   <a href="../gallery/hq/photo_yuuka2.jpg"><img src="../gallery/web/photo_yuuka2.webp" width="45%" alt="Yuuka"></a>
