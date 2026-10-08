@@ -7,9 +7,11 @@ Below are some of my photographs.
   <a href="../gallery/hq/Madeira1_DSC_0116.jpg"><img src="../gallery/web/Madeira1_DSC_0116.webp" width="45%" alt="Yuuka Mountain"></a>
   <a href="../gallery/hq/Madeira1_DSC_0089.jpg"><img src="../gallery/web/Madeira1_DSC_0089.webp" width="45%" alt="Yuuka Mountain"></a>
   <a href="../gallery/hq/Madeira2_DSC_0028.jpg"><img src="../gallery/web/Madeira2_DSC_0028.webp" width="45%" alt="Mountain Clouds"></a>
+  <a href="../gallery/hq/DutchDuckDSC_0001.jpg"><img src="../gallery/web/DutchDuckDSC_0001.webp" width="45%" alt="Duck"></a>
   <a href="../gallery/hq/Madeira1_DSC_0124.jpg"><img src="../gallery/web/Madeira1_DSC_0124.webp" width="45%" alt="Forest"></a>
   <a href="../gallery/hq/Madeira1_DSC_0126.jpg"><img src="../gallery/web/Madeira1_DSC_0126.webp" width="45%" alt="Forest"></a>
   <a href="../gallery/hq/Madeira1_DSC_0137.jpg"><img src="../gallery/web/Madeira1_DSC_0137.webp" width="45%" alt="Flower"></a>
+  <a href="../gallery/hq/AmsterdamCentraal_DSC_0014.jpg"><img src="../gallery/web/AmsterdamCentraal_DSC_0014.webp" width="45%" alt="Saint in Amsterdam"></a>
   <a href="../gallery/hq/photo_yuuka2.jpg"><img src="../gallery/web/photo_yuuka2.webp" width="45%" alt="Yuuka"></a>
   <a href="../gallery/hq/Madeira1_DSC_0002.jpg"><img src="../gallery/web/Madeira1_DSC_0002.webp" width="45%" alt="Houses"></a>
   <a href="../gallery/hq/Madeira1_DSC_0013.jpg"><img src="../gallery/web/Madeira1_DSC_0013.webp" width="45%" alt="Madeira East"></a>
@@ -18,6 +20,7 @@ Below are some of my photographs.
   <a href="../gallery/hq/Madeira3_DSC_0001.jpg"><img src="../gallery/web/Madeira3_DSC_0001.webp" width="45%" alt="Mountain Wall"></a>
   <a href="../gallery/hq/Madeira1_DSC_0162.jpg"><img src="../gallery/web/Madeira1_DSC_0162.webp" width="45%" alt="Komainu"></a>
   <a href="../gallery/hq/Madeira1_DSC_0052.jpg"><img src="../gallery/web/Madeira1_DSC_0052.webp" width="45%" alt="Hina"></a>
+  <a href="../gallery/hq/AmsterdamCentraal_DSC_0016.jpg"><img src="../gallery/web/AmsterdamCentraal_DSC_0016.webp" width="45%" alt="Amsterdam Bicycles"></a>
   <a href="../gallery/hq/PortoYuukaRemi_DSC_0002.jpg"><img src="../gallery/web/PortoYuukaRemi_DSC_0002.webp" width="45%" alt="Yuuka Tree"></a>
   <a href="../gallery/hq/PortoYuukaRemi_DSC_0004.jpg"><img src="../gallery/web/PortoYuukaRemi_DSC_0004.webp" width="45%" alt="Remilia Tree"></a>
   <a href="../gallery/hq/CastêloPlush_DSC_0012.jpg"><img src="../gallery/web/CastêloPlush_DSC_0012.webp" width="45%" alt="Metro"></a>
@@ -31,6 +34,7 @@ Below are some of my photographs.
   <a href="../gallery/hq/Madeira1_DSC_0012.jpg"><img src="../gallery/web/Madeira1_DSC_0012.webp" width="45%" alt="Bee"></a>
   <a href="../gallery/hq/photo_yuuka.jpg"><img src="../gallery/web/photo_yuuka.webp" width="45%" alt="Yuuka Kazami"></a>
   <a href="../gallery/hq/photo_remilia.jpg"><img src="../gallery/web/photo_remilia.webp" width="45%" alt="Remilia"></a>
+  <a href="../gallery/hq/AmsterdamCentraal_DSC_0028.jpg"><img src="../gallery/web/AmsterdamCentraal_DSC_0028.webp" width="45%" alt="Windmill"></a>
   <a href="../gallery/hq/photo_shark.jpg"><img src="../gallery/web/photo_shark.webp" width="45%" alt="Yuuka and Shark"></a>
   <a href="../gallery/hq/Madeira1_DSC_0067.jpg"><img src="../gallery/web/Madeira1_DSC_0067.webp" width="45%" alt="Madeira"></a>
   <a href="../gallery/hq/Madeira2_DSC_0004.jpg"><img src="../gallery/web/Madeira2_DSC_0004.webp" width="45%" alt="Pebbles"></a>
