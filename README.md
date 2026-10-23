@@ -35,7 +35,7 @@ This repository contains some of my various image creations. It serves as a port
 * **[Credits](md/credits.md)**
 * **[Steam Gallery](https://steamcommunity.com/id/spacebanana420/images/)**
 * **[Image Artwork Overview](https://github.com/spacebanana420/spacebanana420/blob/main/md/image.md)**
-* **[Technical Details](md/details.md)
+* **[Technical Details](md/details.md)**
 
 ## License
 
