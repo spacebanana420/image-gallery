@@ -5,11 +5,11 @@
 # Create directories
 if [[ $1 == "setup" ]]
 then
-   mkdir gallery gallery/thumbnail gallery/web gallery/hq import import/original import/jpg import/original_small
+   mkdir gallery gallery/thumbnail gallery/web gallery/hq gallery/hq_webp import import/original import/jpg import/original_small
    exit
 fi
 
-# Delete PNG originals and cleans up .git directory
+# Delete PNG originals and clean up .git directory
 if [[ $1 == "cleanup" ]]
 then
    rm -rf import/original import/jpg import/original_small
@@ -53,9 +53,8 @@ do
   newname=$(basename "$i" ".png")
   newname=$(basename "$newname" ".jpg")
   
-  ffmpeg $ffmpeg_base_args -i "$i" -quality 86 -filter:v "scale=560:-1" gallery/thumbnail/"$newname".webp &
-  ffmpeg $ffmpeg_base_args -i "$i" -quality 88 -filter:v "scale=900:-1" gallery/web/"$newname".webp &
-  
+  ffmpeg $ffmpeg_base_args -i "$i" -quality 86 -filter:v "scale=660:-1" gallery/thumbnail/"$newname".webp &
+  ffmpeg $ffmpeg_base_args -i "$i" -quality 88 -filter:v "scale=1000:-1" gallery/web/"$newname".webp &
 done
 
 #For images above 1920 width, make a HQ version that is 1920 wide
@@ -63,6 +62,7 @@ for i in import/original/*.png
 do
   newname=$(basename "$i" ".png")
   ffmpeg $ffmpeg_base_args -i "$i" -qmin 1 -q 1 -frames:v 1 -filter:v "scale=1920:-1" gallery/hq/"$newname".jpg &
+  ffmpeg $ffmpeg_base_args -i "$i" -quality 88 -filter:v "scale=1920:-1" gallery/hq_webp/"$newname".webp &
 done
 
 #For images equal or below 1920 width, make a HQ version without resizing instead
@@ -70,11 +70,14 @@ for i in import/original_small/*.png
 do
   newname=$(basename "$i" ".png")
   ffmpeg $ffmpeg_base_args -i "$i" -qmin 1 -q 1 -frames:v 1 gallery/hq/"$newname".jpg &
+  ffmpeg $ffmpeg_base_args -i "$i" -quality 88 gallery/hq_webp/"$newname".webp &
 done
 
 
-#For JPEG images, just copy them without encoding
+#For JPEG images, just copy them
 for i in import/jpg/*.jpg
 do
   cp "$i" gallery/hq/
+  newname=$(basename "$i" ".jpg")
+  ffmpeg $ffmpeg_base_args -i "$i" -quality 88 gallery/hq_webp/"$newname".webp &
 done
