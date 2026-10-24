@@ -3,7 +3,9 @@
 Below are some of my photographs.
 
 <div align="center">
+  <a href="../gallery/hq/GhostKitchen_DSC_0002.jpg"><img src="../gallery/web/GhostKitchen_DSC_0002.webp" width="45%" alt="Ghostly Kitchen"></a>
   <a href="../gallery/hq/photo_remilia2.jpg"><img src="../gallery/web/photo_remilia2.webp" width="45%" alt="Remilia"></a>
+  <a href="../gallery/hq/TripodInterior_DSC_0006.jpg"><img src="../gallery/web/TripodInterior_DSC_0006.webp" width="45%" alt="Mimikyu and The Eye"></a>
   <a href="../gallery/hq/Madeira1_DSC_0116.jpg"><img src="../gallery/web/Madeira1_DSC_0116.webp" width="45%" alt="Yuuka Mountain"></a>
   <a href="../gallery/hq/TripodInterior_DSC_0003.jpg"><img src="../gallery/web/TripodInterior_DSC_0003.webp" width="45%" alt="Mimikyu"></a>
   <a href="../gallery/hq/Madeira1_DSC_0089.jpg"><img src="../gallery/web/Madeira1_DSC_0089.webp" width="45%" alt="Yuuka Mountain"></a>
@@ -11,7 +13,6 @@ Below are some of my photographs.
   <a href="../gallery/hq/DutchDuckDSC_0001.jpg"><img src="../gallery/web/DutchDuckDSC_0001.webp" width="45%" alt="Duck"></a>
   <a href="../gallery/hq/Madeira1_DSC_0124.jpg"><img src="../gallery/web/Madeira1_DSC_0124.webp" width="45%" alt="Forest"></a>
   <a href="../gallery/hq/Madeira1_DSC_0126.jpg"><img src="../gallery/web/Madeira1_DSC_0126.webp" width="45%" alt="Forest"></a>
-  <a href="../gallery/hq/TripodInterior_DSC_0006.jpg"><img src="../gallery/web/TripodInterior_DSC_0006.webp" width="45%" alt="Mimikyu and The Eye"></a>
   <a href="../gallery/hq/DenHaag_DSC_0001.jpg"><img src="../gallery/web/DenHaag_DSC_0001.webp" width="45%" alt="In de trein"></a>
   <a href="../gallery/hq/Madeira1_DSC_0137.jpg"><img src="../gallery/web/Madeira1_DSC_0137.webp" width="45%" alt="Flower"></a>
   <a href="../gallery/hq/AmsterdamCentraal_DSC_0014.jpg"><img src="../gallery/web/AmsterdamCentraal_DSC_0014.webp" width="45%" alt="Saint in Amsterdam"></a>
