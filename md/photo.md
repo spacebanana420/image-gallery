@@ -3,6 +3,9 @@
 Below are some of my photographs.
 
 <div align="center">
+  <a href="../gallery/hq/JackOLantern_DSC_0001.jpg"><img src="../gallery/web/JackOLantern_DSC_0001.webp" width="45%" alt="Jack O' Lantern"></a>
+  <a href="../gallery/hq/JackOLantern_DSC_0002.jpg"><img src="../gallery/web/JackOLantern_DSC_0002.webp" width="45%" alt="Jack O' Lantern and Mimikyu"></a>
+  <a href="../gallery/hq/JackOLantern_DSC_0005.jpg"><img src="../gallery/web/JackOLantern_DSC_0005.webp" width="45%" alt="Jack O' Lantern, Mimikyu and Yuuka"></a>
   <a href="../gallery/hq/GhostKitchen_DSC_0002.jpg"><img src="../gallery/web/GhostKitchen_DSC_0002.webp" width="45%" alt="Ghostly Kitchen"></a>
   <a href="../gallery/hq/photo_remilia2.jpg"><img src="../gallery/web/photo_remilia2.webp" width="45%" alt="Remilia"></a>
   <a href="../gallery/hq/TripodInterior_DSC_0006.jpg"><img src="../gallery/web/TripodInterior_DSC_0006.webp" width="45%" alt="Mimikyu and The Eye"></a>
