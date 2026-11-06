@@ -14,7 +14,7 @@ Below are some of my photographs.
 
 ### [**Toy Photography (Indoors)**](collections/toyphoto_indoor.md)
 <div align="left">
-  <a href="collections/toyphoto_indoor.mddoor.md"><img src="../gallery/thumbnail/GhostKitchen_DSC_0002.webp" width="35%"></a>
+  <a href="collections/toyphoto_indoor.md"><img src="../gallery/thumbnail/GhostKitchen_DSC_0002.webp" width="35%"></a>
 </div>
 
 ### [**Madeira Landscape**](collections/madeira.md)
