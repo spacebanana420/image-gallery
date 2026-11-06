@@ -9,7 +9,7 @@ Below are some of my photographs.
 
 ### [**Toy Photography (Outdoors)**](collections/toyphoto_outdoor.md)
 <div align="left">
-  <a href="collections/toyphoto_outdoor.md"><img src="../gallery/thumbnail/photo_remilia3.webp" width="35%"></a>
+  <a href="collections/toyphoto_outdoor.md"><img src="../gallery/thumbnail/photo_remilia2.webp" width="35%"></a>
 </div>
 
 ### [**Toy Photography (Indoors)**](collections/toyphoto_indoor.md)
