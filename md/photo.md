@@ -2,29 +2,31 @@
 
 Below are some of my photographs.
 
+### [**2026 Halloween Collection**](collections/halloween2026_photo.md)
+<div align="left">
+  <a href="collections/halloween2026_photo.md"><img src="../gallery/thumbnail/JackOLantern_DSC_0001.webp" width="35%" alt="Jack O' Lantern"></a>
+</div>
+
+### [**Madeira Trip**](collections/madeira.md)
+<div align="left">
+  <a href="collections/madeira.md"><img src="../gallery/thumbnail/Madeira3_DSC_0001.webp" width="35%" alt="Madeira"></a>
+</div>
+
 <div align="center">
-  <a href="../gallery/hq/JackOLantern_DSC_0001.jpg"><img src="../gallery/web/JackOLantern_DSC_0001.webp" width="45%" alt="Jack O' Lantern"></a>
-  <a href="../gallery/hq/JackOLantern_DSC_0002.jpg"><img src="../gallery/web/JackOLantern_DSC_0002.webp" width="45%" alt="Jack O' Lantern and Mimikyu"></a>
-  <a href="../gallery/hq/JackOLantern_DSC_0005.jpg"><img src="../gallery/web/JackOLantern_DSC_0005.webp" width="45%" alt="Jack O' Lantern, Mimikyu and Yuuka"></a>
   <a href="../gallery/hq/GhostKitchen_DSC_0002.jpg"><img src="../gallery/web/GhostKitchen_DSC_0002.webp" width="45%" alt="Ghostly Kitchen"></a>
   <a href="../gallery/hq/photo_remilia2.jpg"><img src="../gallery/web/photo_remilia2.webp" width="45%" alt="Remilia"></a>
   <a href="../gallery/hq/TripodInterior_DSC_0006.jpg"><img src="../gallery/web/TripodInterior_DSC_0006.webp" width="45%" alt="Mimikyu and The Eye"></a>
   <a href="../gallery/hq/Madeira1_DSC_0116.jpg"><img src="../gallery/web/Madeira1_DSC_0116.webp" width="45%" alt="Yuuka Mountain"></a>
   <a href="../gallery/hq/TripodInterior_DSC_0003.jpg"><img src="../gallery/web/TripodInterior_DSC_0003.webp" width="45%" alt="Mimikyu"></a>
   <a href="../gallery/hq/Madeira1_DSC_0089.jpg"><img src="../gallery/web/Madeira1_DSC_0089.webp" width="45%" alt="Yuuka Mountain"></a>
-  <a href="../gallery/hq/Madeira2_DSC_0028.jpg"><img src="../gallery/web/Madeira2_DSC_0028.webp" width="45%" alt="Mountain Clouds"></a>
   <a href="../gallery/hq/DutchDuckDSC_0001.jpg"><img src="../gallery/web/DutchDuckDSC_0001.webp" width="45%" alt="Duck"></a>
-  <a href="../gallery/hq/Madeira1_DSC_0124.jpg"><img src="../gallery/web/Madeira1_DSC_0124.webp" width="45%" alt="Forest"></a>
-  <a href="../gallery/hq/Madeira1_DSC_0126.jpg"><img src="../gallery/web/Madeira1_DSC_0126.webp" width="45%" alt="Forest"></a>
   <a href="../gallery/hq/DenHaag_DSC_0001.jpg"><img src="../gallery/web/DenHaag_DSC_0001.webp" width="45%" alt="In de trein"></a>
   <a href="../gallery/hq/Madeira1_DSC_0137.jpg"><img src="../gallery/web/Madeira1_DSC_0137.webp" width="45%" alt="Flower"></a>
   <a href="../gallery/hq/AmsterdamCentraal_DSC_0014.jpg"><img src="../gallery/web/AmsterdamCentraal_DSC_0014.webp" width="45%" alt="Saint in Amsterdam"></a>
   <a href="../gallery/hq/photo_yuuka2.jpg"><img src="../gallery/web/photo_yuuka2.webp" width="45%" alt="Yuuka"></a>
   <a href="../gallery/hq/Madeira1_DSC_0002.jpg"><img src="../gallery/web/Madeira1_DSC_0002.webp" width="45%" alt="Houses"></a>
-  <a href="../gallery/hq/Madeira1_DSC_0013.jpg"><img src="../gallery/web/Madeira1_DSC_0013.webp" width="45%" alt="Madeira East"></a>
   <a href="../gallery/hq/photo_yuuka3.jpg"><img src="../gallery/web/photo_yuuka3.webp" width="45%" alt="Yuuka"></a>
   <a href="../gallery/hq/YuukaLionesa_DSC_0004.jpg"><img src="../gallery/web/YuukaLionesa_DSC_0004.webp" width="45%" alt="Yuuka Cycling"></a>
-  <a href="../gallery/hq/Madeira3_DSC_0001.jpg"><img src="../gallery/web/Madeira3_DSC_0001.webp" width="45%" alt="Mountain Wall"></a>
   <a href="../gallery/hq/Madeira1_DSC_0162.jpg"><img src="../gallery/web/Madeira1_DSC_0162.webp" width="45%" alt="Komainu"></a>
   <a href="../gallery/hq/Madeira1_DSC_0052.jpg"><img src="../gallery/web/Madeira1_DSC_0052.webp" width="45%" alt="Hina"></a>
   <a href="../gallery/hq/AmsterdamCentraal_DSC_0016.jpg"><img src="../gallery/web/AmsterdamCentraal_DSC_0016.webp" width="45%" alt="Amsterdam Bicycles"></a>
@@ -43,9 +45,6 @@ Below are some of my photographs.
   <a href="../gallery/hq/photo_remilia.jpg"><img src="../gallery/web/photo_remilia.webp" width="45%" alt="Remilia"></a>
   <a href="../gallery/hq/AmsterdamCentraal_DSC_0028.jpg"><img src="../gallery/web/AmsterdamCentraal_DSC_0028.webp" width="45%" alt="Windmill"></a>
   <a href="../gallery/hq/photo_shark.jpg"><img src="../gallery/web/photo_shark.webp" width="45%" alt="Yuuka and Shark"></a>
-  <a href="../gallery/hq/Madeira1_DSC_0067.jpg"><img src="../gallery/web/Madeira1_DSC_0067.webp" width="45%" alt="Madeira"></a>
-  <a href="../gallery/hq/Madeira2_DSC_0004.jpg"><img src="../gallery/web/Madeira2_DSC_0004.webp" width="45%" alt="Pebbles"></a>
-  <a href="../gallery/hq/Madeira1_DSC_0094.jpg"><img src="../gallery/web/Madeira1_DSC_0094.webp" width="45%" alt="Mountain Peak"></a>
   <a href="../gallery/hq/Madeira1_DSC_0027.jpg"><img src="../gallery/web/Madeira1_DSC_0027.webp" width="45%" alt="Yuuka and Hina"></a>
   <a href="../gallery/hq/photo_yuukaoshawott.jpg"><img src="../gallery/web/photo_yuukaoshawott.webp" width="45%" alt="Yuuka and Oshawott"></a>
   <a href="../gallery/hq/photo_remisaint.jpg"><img src="../gallery/web/photo_remisaint.webp" width="45%" alt="Remilia and Saint"></a>
@@ -53,7 +52,6 @@ Below are some of my photographs.
   <a href="../gallery/hq/photo_path.jpg"><img src="../gallery/web/photo_path.webp" width="45%" alt="Path"></a>
   <a href="../gallery/hq/Madeira1_DSC_0140.jpg"><img src="../gallery/web/Madeira1_DSC_0140.webp" width="45%" alt="Goats"></a>
   <a href="../gallery/hq/photo_encounter.jpg"><img src="../gallery/web/photo_encounter.webp" width="45%" alt="Yuuka's Encounter"></a>
-  <a href="../gallery/hq/Madeira2_DSC_0001.jpg"><img src="../gallery/web/Madeira2_DSC_0001.webp" width="45%" alt="Pillar"></a>
   <a href="../gallery/hq/Madeira1_DSC_0010.jpg"><img src="../gallery/web/Madeira1_DSC_0010.webp" width="45%" alt="Docks"></a>
   <a href="../gallery/hq/photo_remilia3.jpg"><img src="../gallery/web/photo_remilia3.webp" width="45%" alt="Remilia"></a>
   <a href="../gallery/hq/photo_youmu.jpg"><img src="../gallery/web/photo_youmu.webp" width="45%" alt="Youmu"></a>
