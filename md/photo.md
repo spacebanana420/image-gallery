@@ -36,7 +36,6 @@ Below are some of my photographs.
   <a href="../gallery/hq/CastêloPlush_DSC_0012.jpg"><img src="../gallery/web/CastêloPlush_DSC_0012.webp" width="45%" alt="Metro"></a>
   <a href="../gallery/hq/photo_lemon.jpg"><img src="../gallery/web/photo_lemon.webp" width="45%" alt="Lemon"></a>
   <a href="../gallery/hq/photo_pigeon.jpg"><img src="../gallery/web/photo_pigeon.webp" width="45%" alt="Pigeon"></a>
-  <a href="../gallery/hq/Madeira1_DSC_0072.jpg"><img src="../gallery/web/Madeira1_DSC_0072.webp" width="45%" alt="Mountains"></a>
   <a href="../gallery/hq/photo_saint.jpg"><img src="../gallery/web/photo_saint.webp" width="45%" alt="The Saint"></a>
   <a href="../gallery/hq/Madeira1_DSC_0165.jpg"><img src="../gallery/web/Madeira1_DSC_0165.webp" width="45%" alt="Cock"></a>
   <a href="../gallery/hq/Madeira1_DSC_0148.jpg"><img src="../gallery/web/Madeira1_DSC_0148.webp" width="45%" alt="Yuuka"></a>
