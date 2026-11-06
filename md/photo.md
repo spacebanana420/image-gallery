@@ -12,6 +12,7 @@ Below are some of my photographs.
   <a href="collections/madeira.md"><img src="../gallery/thumbnail/Madeira3_DSC_0001.webp" width="35%" alt="Madeira"></a>
 </div>
 
+### Other images
 <div align="center">
   <a href="../gallery/hq/GhostKitchen_DSC_0002.jpg"><img src="../gallery/web/GhostKitchen_DSC_0002.webp" width="45%" alt="Ghostly Kitchen"></a>
   <a href="../gallery/hq/photo_remilia2.jpg"><img src="../gallery/web/photo_remilia2.webp" width="45%" alt="Remilia"></a>
