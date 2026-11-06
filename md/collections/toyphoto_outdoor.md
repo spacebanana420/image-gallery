@@ -17,4 +17,5 @@
   <a href="../../gallery/hq/photo_yuukaoshawott.jpg"><img src="../../gallery/hq_webp/photo_yuukaoshawott.webp" alt="Yuuka and Oshawott"></a>
   <a href="../../gallery/hq/photo_encounter.jpg"><img src="../../gallery/hq_webp/photo_encounter.webp" alt="Yuuka's Encounter"></a>
   <a href="../../gallery/hq/photo_remilia3.jpg"><img src="../../gallery/hq_webp/photo_remilia3.webp" alt="Remilia"></a>
+  <a href="../../gallery/hq/Madeira1_DSC_0052.jpg"><img src="../../gallery/hq_webp/Madeira1_DSC_0052.webp" alt="Hina"></a>
 </div>

@@ -32,7 +32,6 @@ Below are some of my photographs.
   <a href="../gallery/hq/DenHaag_DSC_0001.jpg"><img src="../gallery/web/DenHaag_DSC_0001.webp" width="45%" alt="In de trein"></a>
   <a href="../gallery/hq/AmsterdamCentraal_DSC_0014.jpg"><img src="../gallery/web/AmsterdamCentraal_DSC_0014.webp" width="45%" alt="Saint in Amsterdam"></a>
   <a href="../gallery/hq/Madeira1_DSC_0162.jpg"><img src="../gallery/web/Madeira1_DSC_0162.webp" width="45%" alt="Komainu"></a>
-  <a href="../gallery/hq/Madeira1_DSC_0052.jpg"><img src="../gallery/web/Madeira1_DSC_0052.webp" width="45%" alt="Hina"></a>
   <a href="../gallery/hq/AmsterdamCentraal_DSC_0016.jpg"><img src="../gallery/web/AmsterdamCentraal_DSC_0016.webp" width="45%" alt="Amsterdam Bicycles"></a>
   <a href="../gallery/hq/CastêloPlush_DSC_0012.jpg"><img src="../gallery/web/CastêloPlush_DSC_0012.webp" width="45%" alt="Metro"></a>
   <a href="../gallery/hq/Madeira1_DSC_0165.jpg"><img src="../gallery/web/Madeira1_DSC_0165.webp" width="45%" alt="Cock"></a>
