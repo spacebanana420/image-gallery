@@ -25,7 +25,6 @@ Below are some of my photographs.
   <a href="../gallery/hq/Madeira1_DSC_0137.jpg"><img src="../gallery/web/Madeira1_DSC_0137.webp" width="45%" alt="Flower"></a>
   <a href="../gallery/hq/AmsterdamCentraal_DSC_0014.jpg"><img src="../gallery/web/AmsterdamCentraal_DSC_0014.webp" width="45%" alt="Saint in Amsterdam"></a>
   <a href="../gallery/hq/photo_yuuka2.jpg"><img src="../gallery/web/photo_yuuka2.webp" width="45%" alt="Yuuka"></a>
-  <a href="../gallery/hq/Madeira1_DSC_0002.jpg"><img src="../gallery/web/Madeira1_DSC_0002.webp" width="45%" alt="Houses"></a>
   <a href="../gallery/hq/photo_yuuka3.jpg"><img src="../gallery/web/photo_yuuka3.webp" width="45%" alt="Yuuka"></a>
   <a href="../gallery/hq/YuukaLionesa_DSC_0004.jpg"><img src="../gallery/web/YuukaLionesa_DSC_0004.webp" width="45%" alt="Yuuka Cycling"></a>
   <a href="../gallery/hq/Madeira1_DSC_0162.jpg"><img src="../gallery/web/Madeira1_DSC_0162.webp" width="45%" alt="Komainu"></a>
