@@ -1,6 +1,6 @@
 ## Photography Gallery
 
-Below are some of my photographs.
+Below are some of my photographs. Images are grouped into collections, you can click on their preview or title to open them.
 
 ### [**2026 Halloween Collection**](collections/halloween2026_photo.md)
 <div align="left">
