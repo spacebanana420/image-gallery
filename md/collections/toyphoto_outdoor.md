@@ -4,6 +4,7 @@
   <a href="../../gallery/hq/photo_remilia2.jpg"><img src="../../gallery/hq_webp/photo_remilia2.webp" alt="Remilia"></a>
   <a href="../../gallery/hq/Madeira1_DSC_0116.jpg"><img src="../../gallery/hq_webp/Madeira1_DSC_0116.webp" alt="Yuuka Mountain"></a>
   <a href="../../gallery/hq/Madeira1_DSC_0089.jpg"><img src="../../gallery/hq_webp/Madeira1_DSC_0089.webp" alt="Yuuka Mountain"></a>
+  <a href="../../gallery/hq/Madeira2_DSC_0017.jpg"><img src="../../gallery/hq_webp/Madeira2_DSC_0017.webp" alt="Yuuka Mountain"></a>
   <a href="../../gallery/hq/photo_yuuka2.jpg"><img src="../../gallery/hq_webp/photo_yuuka2.webp" alt="Yuuka"></a>
   <a href="../../gallery/hq/photo_yuuka3.jpg"><img src="../../gallery/hq_webp/photo_yuuka3.webp" alt="Yuuka"></a>
   <a href="../../gallery/hq/YuukaLionesa_DSC_0004.jpg"><img src="../../gallery/hq_webp/YuukaLionesa_DSC_0004.webp" alt="Yuuka Cycling"></a>
