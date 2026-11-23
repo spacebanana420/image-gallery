@@ -30,6 +30,7 @@ Below are some of my photographs. Images are grouped into collections, you can c
 ### Other images
 <div align="center">
   <a href="../gallery/hq/DenHaag_DSC_0001.jpg"><img src="../gallery/web/DenHaag_DSC_0001.webp" width="45%" alt="In de trein"></a>
+  <a href="../gallery/hq/SpookMaia_DSC_0001.jpg"><img src="../gallery/web/SpookMaia_DSC_0001.webp" width="45%" alt="Autumn Bicycle"></a>
   <a href="../gallery/hq/AmsterdamCentraal_DSC_0014.jpg"><img src="../gallery/web/AmsterdamCentraal_DSC_0014.webp" width="45%" alt="Saint in Amsterdam"></a>
   <a href="../gallery/hq/Madeira1_DSC_0162.jpg"><img src="../gallery/web/Madeira1_DSC_0162.webp" width="45%" alt="Komainu"></a>
   <a href="../gallery/hq/AmsterdamCentraal_DSC_0016.jpg"><img src="../gallery/web/AmsterdamCentraal_DSC_0016.webp" width="45%" alt="Amsterdam Bicycles"></a>
