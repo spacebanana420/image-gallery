@@ -1,6 +1,7 @@
 ## Toy Photography Album (Outdoor)
 
 <div align="center">
+  <a href="../../gallery/hq/SpookMaia_DSC_0004.jpg"><img src="../../gallery/hq_webp/SpookMaia_DSC_0004.webp" alt="Saint's Autumn"></a>
   <a href="../../gallery/hq/SpookGarden_DSC_0002.jpg"><img src="../../gallery/hq_webp/SpookGarden_DSC_0002.webp" alt="Autumn and Shuppet"></a>
   <a href="../../gallery/hq/SpookGarden_DSC_0005.jpg"><img src="../../gallery/hq_webp/SpookGarden_DSC_0005.webp" alt="Mimikyu's Autumn Haunting"></a>
   <a href="../../gallery/hq/photo_remilia2.jpg"><img src="../../gallery/hq_webp/photo_remilia2.webp" alt="Remilia"></a>
